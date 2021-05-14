@@ -1,5 +1,5 @@
 # VHDL
-A VHDL interpreter
+## A VHDL interpreter
 
 In this project we are going to write a VHDL interpreter written in RPython.
 
